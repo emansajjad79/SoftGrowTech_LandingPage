@@ -6,4 +6,4 @@ Built with HTML, CSS, and JavaScript.
 - Clean layout
 ## Links
 - GitHub Repo: https://github.com/emansajjad79/SoftGrowTech_LandingPage
-- Live Demo: https://softtechgrow.netlify.app
+- Live Demo: https://softgrowtech.netlify.app
